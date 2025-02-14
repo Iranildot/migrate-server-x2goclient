@@ -1,4 +1,4 @@
-# migrate-server-x2goclient
+# migrate-client-x2goclient
 
 Command: 
 ```
